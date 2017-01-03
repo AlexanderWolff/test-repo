@@ -1,4 +1,4 @@
-		/// <summary>
+	/// <summary>
         /// Loads and returns *.png files
         /// </summary>
         private String[] LoadFiles()
